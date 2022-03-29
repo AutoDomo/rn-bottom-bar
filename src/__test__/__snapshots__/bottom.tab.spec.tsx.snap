@@ -1,0 +1,67 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FabTabBar Should render 1`] = `
+<Navigator
+  screenOptions={
+    Object {
+      "tabBarActiveTintColor": "purple",
+      "tabBarInactiveTintColor": "white",
+    }
+  }
+  tabBar={[Function]}
+>
+  <Screen
+    component={[Function]}
+    name="Home"
+    options={
+      Object {
+        "tabBarIcon": [Function],
+        "tabBarLabel": "Home",
+      }
+    }
+  />
+  <Screen
+    component={[Function]}
+    name="Home"
+    options={
+      Object {
+        "tabBarIcon": [Function],
+        "tabBarLabel": "Settings",
+      }
+    }
+  />
+</Navigator>
+`;
+
+exports[`FabTabBar Should render 2`] = `
+<Navigator
+  screenOptions={
+    Object {
+      "tabBarActiveTintColor": "purple",
+      "tabBarInactiveTintColor": "white",
+    }
+  }
+  tabBar={[Function]}
+>
+  <Screen
+    component={[Function]}
+    name="Home"
+    options={
+      Object {
+        "tabBarIcon": [Function],
+        "tabBarLabel": "Home",
+      }
+    }
+  />
+  <Screen
+    component={[Function]}
+    name="Home"
+    options={
+      Object {
+        "tabBarIcon": [Function],
+        "tabBarLabel": "Settings",
+      }
+    }
+  />
+</Navigator>
+`;
