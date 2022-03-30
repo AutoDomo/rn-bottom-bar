@@ -3,13 +3,13 @@
 Make sure you installed `react-native-safe-area-context` before installing the library : https
 
 ```
-yarn add @phoenix/rn-bottom-bar
+yarn add @phoenative/rn-bottom-bar
 ```
 
 or
 
 ```
-npm install @phoenix/rn-bottom-bar --save
+npm install @phoenative/rn-bottom-bar --save
 ```
 
 ## 📋 Requirements
